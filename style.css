@@ -1,0 +1,26 @@
+.oneTimesButton{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+     background-color: transparent;
+     border: none;
+     padding: 5px;
+}
+
+.oneDotFiveTimesButton{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+     background-color: transparent;
+     border: none;
+     padding: 5px;
+}
+
+.twoTimesButton{
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+     background-color: transparent;
+     border: none;
+     padding: 5px;
+}
