@@ -4,7 +4,7 @@
 
 <p>para utilizar, basta fazer um clonar com;</p>
 <code>$  git clone https://github.com/Daniel-Bichof/speed_audio.git</code>
-<p>no canto superior da home do google chrome, clique na peça(extenção) > manage extensions> ative o "DEVOLOPER MODE"
+<p>no canto superior direito do google chrome, clique na peça(extenção) > manage extensions> ative o "DEVOLOPER MODE"
 <br> selecione "LOAD UNPACKED" e selecione o caminho onde você clonou o repositorio
 </p>
 <hr/>
